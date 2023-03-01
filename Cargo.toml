@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "pdfac-cli",
+    "pdfac",
+]
